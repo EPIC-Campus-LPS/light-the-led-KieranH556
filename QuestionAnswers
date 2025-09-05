@@ -1,0 +1,8 @@
+1. What is the purpose of a Breadboard
+The purpose of the breadboard is so that an individual can connect external hardware (Like LEDs and Sensors) powered and controlled by the Pi
+2. Does the LED orientation matter?
+Yes, the LED's orientation matters. The anode needs to be coneced to the positive side of power and the cathode on the negative, otherwise it will "break" the circut.
+3. Why do you put a resistor in your circut?
+To control the amount of power going into the LED, there is a larger amount of voltage the LED can handle so a reistor provides resistance so that the LED doesn't overheat/burn out.
+4. How will a resistor with greater resistance affect the light
+If there is greater resistance the light would be dimmer due to the lower amount of voltage.
